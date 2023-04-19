@@ -1,0 +1,362 @@
+.card {
+  box-shadow: 5px 5px 5px 2px rgb(212, 207, 214);
+  align-items: center;
+  justify-content: center;
+  border-radius: 44px;
+  background-color: rgb(247, 254, 255);
+  margin-bottom: 1rem;
+  margin-top: 1.5rem;
+  margin: 17px;
+}
+.card img {
+  height: 190px;
+  object-fit: contain;
+  margin-top: 1rem;
+}
+
+.card :hover {
+  cursor: pointer;
+  background-color: rgb(228, 228, 235);
+}
+
+.banner img {
+  width: 800%;
+  margin: auto;
+  align-items: center;
+  height: 600px;
+  margin-bottom: 6rem;
+}
+
+.card-title {
+  border-radius: 13px;
+}
+.h-title {
+  display: flex;
+  float: right;
+  margin-right: 3rem;
+  margin-top: 0.5rem;
+}
+.back-link {
+  margin-left: 2rem;
+}
+
+/* Navbar */
+.navbar {
+  height: 3.5rem;
+}
+.logo {
+  border-radius: 50%;
+  width: 60px;
+}
+.cart {
+  margin-right: 20px;
+}
+.fa-shopping-cart {
+  font-size: 1.5rem;
+}
+
+.signup {
+  text-decoration: none;
+}
+
+/* Login Signup form */
+.form {
+  width: 500px;
+  border-radius: 11px;
+  padding: 0.5rem;
+  background-color: rgb(231, 235, 235);
+  font-size: 18px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  box-shadow: 5px 5px 5px 2px rgb(199, 176, 207);
+}
+
+.signup-form {
+  margin-top: 3rem;
+  font-weight: bold;
+  margin-bottom: 8rem;
+}
+.signup-title {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.signup-title1 {
+  text-align: center;
+  color: rgb(6, 104, 25);
+  margin-bottom: 1rem;
+}
+.nav-signup {
+  text-decoration: none;
+  color: white;
+  margin-right: 12rem;
+}
+
+.Back_login {
+  width: 14rem;
+  font-weight: 600;
+  font-size: 21px;
+  background-color: rgb(207, 2, 2);
+  color: white;
+  height: 45px;
+  border-radius: 15px;
+}
+.nav-cart {
+  margin-right: 1rem;
+  margin-top: 6px;
+}
+
+.form-group {
+  display: flex;
+  margin: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+.form-group input {
+  margin-left: 1rem;
+}
+.signup-btn {
+  width: 110px;
+  background-color: rgb(207, 2, 2);
+  color: white;
+  padding: 3px;
+  border-radius: 10px;
+  height: 35px;
+  font-weight: bold;
+}
+
+.signup-btn:hover {
+  background-color: rgb(113, 30, 236);
+}
+
+.logout {
+  margin-right: 1rem;
+  margin-top: 0.2rem;
+  cursor: pointer;
+  width: 7rem;
+  height: 2rem;
+  background-color: rgb(207, 2, 2);
+  padding: 0.9;
+  border-radius: 10px;
+  border: 1px solid rgb(207, 2, 2);
+}
+.logout-btn :hover {
+  background-color: rgb(207, 2, 2);
+}
+
+/* XX-------Navbar--------XX */
+
+/* Ecomerce Gif */
+
+.ecomerce-gif {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5rem;
+}
+/* XX-------Ecmerce gif------------XX */
+
+.round-card img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+/* Subutems */
+.sub-item {
+  width: 650px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+  padding: 15px;
+  box-shadow: 5px 5px 5px 2px rgb(174, 169, 199);
+  border-radius: 15px;
+  background-color: white;
+}
+
+.sub-item:hover {
+  background-color: rgb(214, 233, 235);
+}
+
+.sub-item img {
+  height: 250px;
+  margin-bottom: 2rem;
+  margin-right: 3rem;
+  border-radius: 15px;
+}
+.O-btn {
+  width: 115px;
+  background-color: rgb(9, 12, 26);
+  color: aliceblue;
+  border-radius: 8px;
+}
+.O-btn:hover {
+  background-color: rgb(35, 45, 196);
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+.btn {
+  display: flex;
+  margin-right: 18rem;
+  border-radius: 8px;
+}
+
+.empty {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  font-weight: 750;
+  font-size: 23px;
+  font-style: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+@media (max-width: 690px) {
+  .title {
+    font-size: 25px;
+  }
+  .fa-shopping-cart {
+    font-size: 25px;
+    margin-top: 0.5rem;
+  }
+  .head {
+    display: none;
+  }
+  .form {
+    width: 410px;
+    height: 500px;
+  }
+  .footer {
+    width: 100%;
+    margin-top: 18rem;
+  }
+  .sub-item {
+    width: 450px;
+  }
+  .sub-item img {
+    height: 130px;
+    width: 50px;
+    margin-right: 3px;
+    margin-left: 0.1rem;
+  }
+  .description {
+    font-size: 12px;
+  }
+  .O-btn {
+    width: 100px;
+  }
+  .nav-cart {
+    margin-right: 4rem;
+    margin-top: 1px;
+  }
+  .payment {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 504px) {
+  .fa-shopping-cart {
+    font-size: 35px;
+  }
+  .sub-item {
+    width: 400px;
+  }
+  .sub-item img {
+    height: 170px;
+    width: 50px;
+  }
+  .description {
+    font-size: 11px;
+  }
+  .O-btn {
+    width: 80px;
+  }
+  .footer {
+    width: 100%;
+    margin-top: 18rem;
+  }
+  .payment {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media (max-width: 440px) {
+  .title {
+    font-size: 10px;
+  }
+  .sub-item {
+    width: 370px;
+    margin: 2rem;
+  }
+  .sub-item img {
+    height: 110px;
+    width: 40px;
+  }
+  .description {
+    font-size: 10px;
+  }
+  .O-btn {
+    width: 70px;
+  }
+  .nav-cart {
+    margin-right: 4rem;
+    margin-top: 1px;
+  }
+  .footer {
+    width: 100%;
+    margin-top: 18rem;
+  }
+  .payment {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 365px) {
+  .sub-item {
+    width: 330px;
+  }
+  .sub-item img {
+    height: 160px;
+    width: 45px;
+  }
+  .description {
+    font-size: 9px;
+  }
+  .O-btn {
+    width: 70px;
+  }
+  .nav-cart {
+    margin-right: 4rem;
+    margin-top: 1px;
+  }
+  .footer {
+    width: 100%;
+    margin-top: 18rem;
+  }
+  .payment {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+}

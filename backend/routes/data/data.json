@@ -1,0 +1,220 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "Burger",
+      "image": "https://b.zmtcdn.com/data/dish_photos/467/5148215730bbb6fd434be4fbecf96467.png",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Whopper Jr Veg Burger",
+            "image": "https://b.zmtcdn.com/data/dish_photos/467/5148215730bbb6fd434be4fbecf96467.png",
+            "price": "120",
+            "description": "Enjoy delicious whopper Veg burger"
+          },
+          {
+            "name": "Whopper Jr chicken Burger ",
+            "image": "https://b.zmtcdn.com/data/dish_photos/d26/a26965652622288a755007b97ce09d26.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "220",
+            "description": "Enjoy delicious whopper chincken burger"
+          },
+          {
+            "name": "Veg makhani crisp burger",
+            "image": "https://b.zmtcdn.com/data/dish_photos/8cc/ca984009a701da73e1b3349d4d2ba8cc.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "120",
+            "description": "Veg Makhani Burst Burger+ Medium Peri Peri Fries"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Noodles",
+      "image": "https://media.istockphoto.com/photos/hamburger-with-cheese-and-french-fries-picture-id1188412964?k=6&m=1188412964&s=612x612&w=0&h=860S0kVoWTA60T4wakI8HLv-Y3fFw9jOKLSB4quEkIE=",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Chicken crisp Noodles",
+            "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gi753zbtifpilozofsos",
+            "price": "250",
+            "description": "Enjoy delicious chincken Noodles"
+          },
+          {
+            "name": "Shanghai Court Noodles",
+            "image": "https://b.zmtcdn.com/data/pictures/chains/2/18285162/2a89565de1bc7d88cf7f89536f84f349.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "price": "250",
+            "description": "Enjoy delicious Shanghai  Noodles"
+          },
+          {
+            "name": "Veg paneer Noodles",
+            "image": "https://b.zmtcdn.com/data/dish_photos/509/919317394a1c8309dd9d751999179509.jpg",
+            "price": "150",
+            "description": "Enjoy delicious paneer  Noodles"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "image": "https://cdn.mos.cms.futurecdn.net/A4GDK27VMnz6LtFDy9yzk.jpg",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Mexican Green Veggies Pizza [8 inches]",
+            "image": "https://b.zmtcdn.com/data/dish_photos/bde/40470a5b2b702de61455dc68d816fbde.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "450",
+            "description": "This delicious pizza combines the rich and creamy flavor of cheese with the tangy taste of Hariyali spices"
+          },
+          {
+            "name": "indi paneer cheese Pizza [8 inches]",
+            "image": "https://b.zmtcdn.com/data/dish_photos/f40/f02b5e3c92d92185ad7ef844cf41df40.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "550",
+            "description": "This delicious pizza combines the rich and creamy flavor of cheese with the tangy taste of Hariyali spices"
+          },
+          {
+            "name": "Bell Pepper Pizza [8 inches]",
+            "image": "https://b.zmtcdn.com/data/dish_photos/a2b/0483786f36dc9c312d1d120a78601a2b.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "650",
+            "description": "This delicious pizza combines the rich and creamy flavor of cheese with the tangy taste of Hariyali spices"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Biryani",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt3aMXt6lltiIQRIYZvz8K75QbxYOS7TXgs9vpBjyGhkbAYnOfHM_qtUTdK8Oy0R2n4H4&usqp=CAU",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Sahukar Biryani - Biryani Royal",
+            "image": "https://b.zmtcdn.com/data/dish_photos/ec6/08d1337a826d560af38878280bd52ec6.jpg",
+            "price": "150",
+            "description": "A box full of goodness in layers of the aromatic Bagara rice and vegetables cooked with the right blend of masalas"
+          },
+          {
+            "name": "Paneer Makhni Bagara Biryani (Spicy)",
+            "image": "https://b.zmtcdn.com/data/dish_photos/55d/05871f5d8bfac2e4a06d83ed57ff255d.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "250",
+            "description": "A box full of goodness in layers of the aromatic Bagara rice and vegetables cooked with the right blend of masalas"
+          },
+          {
+            "name": "Sahukar Ambur Chicken Dum Biryani",
+            "image": "https://b.zmtcdn.com/data/dish_photos/fa5/fa31955df13fd384c449a5c9c8bbdfa5.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "550",
+            "description": "A box full of goodness in layers of the aromatic Bagara rice and vegetables cooked with the right blend of masalas"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Thali",
+      "image": "https://m.media-amazon.com/images/I/51UUJpcldDL._QL65_AC_UL640_.jpg",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Rajasthani Veg thali",
+            "image": "https://b.zmtcdn.com/data/pictures/5/19524145/6107a6a3d46c1a493f4c36f778b16b84_featured_v2.jpg",
+            "price": "150",
+            "description": "Palak Panner +3 Butter Phulka+Dal of the Day+Papad+Pickle+Lasoon Chutney+Sweet [Subject to Availability]+RIce"
+          },
+          {
+            "name": "Veg delicious Thali 2",
+            "image": "https://b.zmtcdn.com/data/dish_photos/166/eead00f63625f62765d89ecdccf5d166.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "250",
+            "description": "Palak Panner +3 Butter Phulka+Dal of the Day+Papad+Pickle+Lasoon Chutney+Sweet [Subject to Availability]+RIce"
+          },
+          {
+            "name": "Palak panner wali thali",
+            "image": "https://b.zmtcdn.com/data/dish_photos/19b/0d021a49b7b39b52f2955feccb66119b.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "350",
+            "description": "Palak Panner +3 Butter Phulka+Dal of the Day+Papad+Pickle+Lasoon Chutney+Sweet [Subject to Availability]+RIce"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "South Indian",
+      "image": "https://d2r68eeixpqexd.cloudfront.net/41fd2ced63aa8d47a3142fa4cd46849b.jpg",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Pure ghee masala Dosa",
+            "image": "https://b.zmtcdn.com/data/dish_photos/5eb/7df78a0c7c01bdaa246a2b4195c495eb.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "120",
+            "description": "A crispy golden brown dosa fried using clarified butter with a spicy filling ... read more"
+          },
+          {
+            "name": "Paper Masala Dosa",
+            "image": "https://b.zmtcdn.com/data/dish_photos/ad4/0cfc79560de4a4af7764b38e51de2ad4.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "150",
+            "description": "A long crispy paper-thin crepe dosa with a spiced filling of mashed potatoes, onions, coriander, served with spicy sambar and chutneys"
+          },
+          {
+            "name": "Rava Masala Dosai",
+            "image": "https://b.zmtcdn.com/data/dish_photos/443/cf5506c8c902ca00b0468699715f6443.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "550",
+            "description": "A textured crisp fried dosa made of mildly roasted semolina and rice batter with mildly spiced mashed potatoes, coriander and served with sambar and chutney"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "Air Conditioners",
+      "image": "https://static.digit.in/default/11c06ecea67dc4623b4d259c65b88357c9b70c39.jpeg",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Belgian Chocolate Thick Shake ",
+            "image": "https://b.zmtcdn.com/data/dish_photos/cd7/6902ce290f66c803675abb5f974a2cd7.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "120",
+            "description": "Chocolaty love all the way from Belgium! We've finally discovered the cure to all your midnight chocolate cravings with this classic Belgium Chocolate flavor."
+          },
+          {
+            "name": "Nutella Brownie Crumble Thick Shake",
+            "image": "https://b.zmtcdn.com/data/dish_photos/dbf/70f5be48d97529aa774bdf36c51b6dbf.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "250",
+            "description": "After you taste the rich brownie fudge, you'll realize that the indulgence of Nutella is calling out your name and you'll find yourself giving in. Absolutely irresistible!"
+          },
+          {
+            "name": "Mexican Vanilla Thick Shake",
+            "image": "https://b.zmtcdn.com/data/dish_photos/4ee/df37b21511a85cbf27f129d8b4c7b4ee.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "200",
+            "description": "The richest, creamiest and smoothest Vanilla you have ever tasted.Fall in love at the first sip!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "soups",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pop-waterbottles-index-1594404970.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Veg clear soups ",
+            "image": "https://b.zmtcdn.com/data/dish_photos/2e7/6af8ede194b535582199193cc46c92e7.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "150",
+            "description": "Minced garlic and ginger with other veggies. Manchow provided separately."
+          },
+          {
+            "name": "Veg Hong Kong Soup",
+            "image": "https://b.zmtcdn.com/data/dish_photos/f60/4489c8be2b6ac6735184ffee8b398f60.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "250",
+            "description": "Served crispy manchow added all the veggies and chicken super rich and super spicy."
+          },
+          {
+            "name": "Chicken Hot and Sour Soup",
+            "image": "https://b.zmtcdn.com/data/dish_photos/aaa/e129bfcea12340558bbe13353907baaa.jpg?fit=around|130:130&crop=130:130;*,*",
+            "price": "130",
+            "description": "Served crispy manchow added all the veggies and chicken super rich and super spicy."
+          }
+        ]
+      }
+    }
+  ]
+}
